@@ -693,8 +693,8 @@ const htmlContent = `<!DOCTYPE html>
           <span class="meta-value">Desarrollo de Aplicaciones Móviles</span>
         </div>
         <div class="meta-item">
-          <span class="meta-label">Equipo de Trabajo</span>
-          <span class="meta-value">Equipo Flutter2 (Programador & Arquitecto)</span>
+          <span class="meta-label">Estudiante / Autor</span>
+          <span class="meta-value">Jezer Martinez Perez</span>
         </div>
         <div class="meta-item">
           <span class="meta-label">Fecha de Entrega</span>

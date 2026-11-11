@@ -10,7 +10,7 @@
     "test:audit": "node test/e2e-audit.js"
   },
   "keywords": ["express", "rest", "crud", "notes"],
-  "author": "",
+  "author": "Jezer Martinez Perez",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",

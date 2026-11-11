@@ -819,10 +819,8 @@ async function buildDocxReport() {
           createCoverPara("ASIGNATURA:", { before: 0, after: 60, bold: true }),
           createCoverPara("DESARROLLO DE APLICACIONES MÓVILES", { before: 0, after: 1000 }),
 
-          createCoverPara("CIPA:", { before: 0, after: 60, bold: true }),
-          createCoverPara("JEZER MARTINEZ PEREZ", { before: 0, after: 60 }),
-          createCoverPara("MARIANA CAMILA OLMOS PEREZ", { before: 0, after: 60 }),
-          createCoverPara("JESUS DAVID GUERRERO RADA", { before: 0, after: 1000 }),
+          createCoverPara("ESTUDIANTE / AUTOR:", { before: 0, after: 60, bold: true }),
+          createCoverPara("JEZER MARTINEZ PEREZ", { before: 0, after: 1000 }),
 
           createCoverPara("TUTOR:", { before: 0, after: 60, bold: true }),
           createCoverPara("EVELIN BARCO LLERENA", { before: 0, after: 1400 }),

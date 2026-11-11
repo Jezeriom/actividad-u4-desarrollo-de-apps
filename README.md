@@ -1,7 +1,7 @@
 # Sistema de Gestión de Notas y Tareas (Smart Notes Hub)
 
 > **Actividad Unidad 4 - Desarrollo de Aplicaciones Móviles**  
-> **CIPA:** Jezer Martínez Pérez, Mariana Camila Olmos Pérez, Jesús David Guerrero Rada  
+> **Estudiante / Autor:** Jezer Martinez Perez  
 > **Tutor:** Evelin Barco Llerena  
 > **Programa:** Ingeniería en Software — V Semestre  
 
