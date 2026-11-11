@@ -697,6 +697,10 @@ const htmlContent = `<!DOCTYPE html>
           <span class="meta-value">Jezer Martinez Perez</span>
         </div>
         <div class="meta-item">
+          <span class="meta-label">Docente / Tutor</span>
+          <span class="meta-value">Elkin Jose Navarro Osorio</span>
+        </div>
+        <div class="meta-item">
           <span class="meta-label">Fecha de Entrega</span>
           <span class="meta-value">28 de Octubre de 2026</span>
         </div>

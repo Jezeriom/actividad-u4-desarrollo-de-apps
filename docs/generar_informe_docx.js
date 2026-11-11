@@ -823,7 +823,7 @@ async function buildDocxReport() {
           createCoverPara("JEZER MARTINEZ PEREZ", { before: 0, after: 1000 }),
 
           createCoverPara("TUTOR:", { before: 0, after: 60, bold: true }),
-          createCoverPara("EVELIN BARCO LLERENA", { before: 0, after: 1400 }),
+          createCoverPara("ELKIN JOSE NAVARRO OSORIO", { before: 0, after: 1400 }),
 
           createCoverPara("INGENIERÍA EN SOFTWARE", { before: 0, after: 60 }),
           createCoverPara("V SEMESTRE", { before: 0, after: 200 }),

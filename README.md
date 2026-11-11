@@ -2,7 +2,7 @@
 
 > **Actividad Unidad 4 - Desarrollo de Aplicaciones Móviles**  
 > **Estudiante / Autor:** Jezer Martinez Perez  
-> **Tutor:** Evelin Barco Llerena  
+> **Tutor:** Elkin Jose Navarro Osorio  
 > **Programa:** Ingeniería en Software — V Semestre  
 
 ---
